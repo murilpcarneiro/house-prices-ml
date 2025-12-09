@@ -169,9 +169,12 @@ _Opcional: `pycaret` para AutoML avançado (requer pandas<2.2)_
 
 Este projeto é disponibilizado sob a licença [MIT](LICENSE).
 
-## 👤 Autor
+## 👥 Equipe
 
-Desenvolvido como projeto de modelagem para análise de dados e machine learning.
+| Membro                        | Papel                               |
+| ----------------------------- | ----------------------------------- |
+| **Murilo Pantoja Carneiro**   | Análise de Dados & Machine Learning |
+| **João Pedro Silva da Silva** | Modelagem & Otimização              |
 
 ---
 
